@@ -4,3 +4,5 @@ Hello there!!
 ## Learn git and github.
 
 # git revert and git reset
+
+#RESET AND REVERT
